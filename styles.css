@@ -1,0 +1,92 @@
+body{
+    background-color: #440a67;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    color: #93329e;
+}
+h2{
+    font-family: 'Merriweather', serif;
+    color: #b4aee8;
+}
+.header{
+    background-color:#ffe3fe ;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 20px;
+    color:#440a67 ;
+}
+.list-items{
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    font-weight: bolder;
+    font-size: 20px;
+    color: #ffe3fe;
+}
+.packs-h2{
+    font-size: 30px;
+}
+.page-title{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 100px;
+    transition-duration: 0.4s;
+}
+.page-title:hover{
+    color: #b4aee8;
+}
+.packages{
+    margin-top: 100px;
+}
+.basic-pack{
+    padding: 20px;
+    text-align: center;
+    background-color:#93329e;
+    height: fit-content;
+    border-radius: 30px;
+    margin: 30px;
+}
+.premium-pack{
+    padding: 20px;
+    text-align: center;
+    background-color: #93329e;
+    height: fit-content;
+    border-radius: 30px;
+    margin: 30px;
+}
+.vip-pack{
+    padding: 20px;
+    text-align: center;
+    background-color: #93329e;
+    height: fit-content;
+    border-radius: 30px;
+    margin: 30px;
+    
+}
+.btn-div{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.btn {
+    background-color:#93329e;
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+    border: none;
+    color:#ffe3fe;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 30px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+  }
+  .btn:hover{
+      background-color: #ffe3fe;
+      color: black;
+      box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  
